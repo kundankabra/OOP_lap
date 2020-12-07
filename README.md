@@ -1,4 +1,5 @@
 # **Object-Oriented-Programming**
+
 ##OOP Assignments: 
 
 >##**ASSIGNMENT-1** :
@@ -8,7 +9,7 @@
  Construct the database with suitable member functions viz  , static member functions, friend class/ friend function, this pointer, 
  inline code and dynamic memory allocation operators-new and delete. 
  Implement all the keywords as mentioned in the problem statement.
- 
+<hr> 
 >##**ASSIGNMENT-2** : 
 
 -To use operator overloading concept to perform different operations on complex numbers.
@@ -17,7 +18,7 @@
   1) Constructor (including a default constructor which creates the complex number 0+0i). 
   2) Overloaded operator+ to add two complex numbers. 
   3) Overloaded operator* to multiply two complex number
-  
+<hr>  
 >##**ASSIGNMENT-3** :
 
 -To understand concept of inheritance.
@@ -29,12 +30,12 @@
   of triangles and used as follows:
     Area  of rectangle=x*y;
     Area of triangle=1/2*X*Y;
-    
+ <hr>   
 >##**ASSIGNMENT-4** :
 
 -To understand concept of template function.
 -Write function template and class template selection sort . Write a program that inputs , sorts and outputs an integer array and a float array.
-
+<hr>
 >##**ASSIGNMENT-5** : 
 
 -To understand concept of exception as well as user defined exception.
@@ -42,7 +43,7 @@
   A. User stays in Pune/Mumbai/Bangalore/Chennai.
   B. User has 4-wheeler city , vehicle from the user and check for the conditions mentioned above .if any of the condition not met then throw the exception .
      if user does not enter proper input throw the exception.
-     
+ <hr>    
 >##**ASSIGNMENT-6** : 
 
 -To create a class template to represent a generic vector.
@@ -51,14 +52,15 @@
   ii. To modify the value of a given element 
   iii.To multiply by a scalar value
   iv. To display the vector in the form (10,20,30,…)
-
+<hr>
 >##**ASSIGNMENT-7** : 
 
 -To create a standard template library for performing certain operations.
 -Using standard template library (STL) list container implement following member functions of list class: empty, insert, reverse, sort, Unique, using iterator."
-
+<hr>
 >##**ASSIGNMENT-8** : 
 
 -To create an output file to perform file related operations.
 -Write a C++ program that creates an output file, writes information to it, closes the file and open it again as an input file and read the information 
  from the file.
+<hr>
